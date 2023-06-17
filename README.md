@@ -6,7 +6,7 @@ cd client npm install npm run dev
 
 Responsive Fixes (It's still going on)
 
-Language Support (TR - EN)
+Language Support ( EN )
 
 React ENV
 
