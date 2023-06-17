@@ -1,4 +1,6 @@
-Installation git clone [https://github.com/Alperenyilan/yemeksiparisi.git](https://github.com/Alperenyilan/Tokenwebsite.git)
+Installation : 
+
+git clone [https://github.com/Alperenyilan/yemeksiparisi.git](https://github.com/Alperenyilan/Tokenwebsite.git)
 
 React
 
